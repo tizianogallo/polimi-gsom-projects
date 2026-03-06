@@ -1,0 +1,53 @@
+University_Name,National_Rank,Founded_Year,Institution_Type,Region_Code,Research_Impact_Score,Intl_Student_Ratio,Employment_Rate
+University of Tokyo,1,1877,National,13000,98.5,14.2,94.5
+Kyoto University,2,1897,National,26000,97.2,12.5,93.8
+Tohoku University,3,1907,National,04000,94.8,11.8,95.2
+Institute of Science Tokyo,4,2024,National,13000,95.1,12.8,97.5
+Osaka University,5,1931,National,27000,92.1,10.9,94.0
+Nagoya University,6,1939,National,23000,90.4,12.1,93.5
+Kyushu University,7,1911,National,40000,88.9,11.2,92.8
+Hokkaido University,8,1876,National,01000,87.5,10.5,93.0
+University of Tsukuba,9,1973,National,08000,86.2,13.8,91.5
+Keio University,10,1858,Private,13000,84.1,9.5,97.2
+Waseda University,11,1882,Private,13000,83.5,16.2,96.8
+Hitotsubashi University,12,1875,National,13000,82.0,14.5,98.0
+Kobe University,13,1902,National,28000,80.8,8.4,91.2
+Hiroshima University,14,1949,National,34000,79.5,9.8,89.5
+Yokohama National University,15,1949,National,14000,77.2,10.2,92.1
+Chiba University,16,1949,National,12000,76.5,7.8,90.4
+Okayama University,17,1949,National,33000,75.1,8.2,89.8
+Kanazawa University,18,1862,National,17000,74.5,6.5,88.9
+Kumamoto University,19,1949,National,43000,73.8,7.1,88.2
+Tokyo Metropolitan University,20,1949,Public,13000,72.9,8.5,91.0
+Osaka Metropolitan University,21,1880,Public,27000,72.1,7.9,90.2
+Nagasaki University,22,1949,National,42000,71.5,6.8,87.5
+Niigata University,23,1949,National,15000,70.8,5.5,87.2
+Gifu University,24,1949,National,21000,69.5,5.2,86.8
+Mie University,25,1949,National,24000,68.2,4.8,86.1
+Shinshu University,26,1949,National,20000,67.5,5.1,85.9
+Gunma University,27,1949,National,10000,66.8,4.9,85.5
+University of Toyama,28,1949,National,16000,66.1,4.5,85.1
+Tokushima University,29,1949,National,36000,65.4,4.2,84.8
+Yamaguchi University,30,1949,National,35000,64.8,4.1,84.5
+Ehime University,31,1949,National,38000,64.1,3.9,84.2
+Saitama University,32,1949,National,11000,63.5,5.8,88.4
+Shizuoka University,33,1949,National,22000,62.9,5.2,87.9
+Ritsumeikan University,34,1900,Private,26000,61.5,12.4,95.1
+Doshisha University,35,1875,Private,26000,60.8,10.5,95.8
+Meiji University,36,1881,Private,13000,59.5,8.8,96.2
+Sophia University,37,1913,Private,13000,58.9,18.5,94.5
+Tokyo University of Science,38,1881,Private,13000,58.2,4.5,97.5
+Aoyama Gakuin University,39,1874,Private,13000,57.5,7.2,95.0
+Kwansei Gakuin University,40,1889,Private,28000,56.8,8.1,94.8
+Chuo University,41,1885,Private,13000,56.1,6.5,95.4
+Hosei University,42,1880,Private,13000,55.5,7.8,94.9
+Kindai University,43,1925,Private,27000,54.8,4.2,93.1
+Tokai University,44,1942,Private,14000,54.1,5.5,91.8
+Shibaura Institute of Technology,45,1927,Private,13000,53.5,6.2,98.2
+Nara Institute of Science and Technology,46,1991,National,29000,52.8,22.5,96.5
+Nagoya Institute of Technology,47,1905,National,23000,52.1,4.8,97.8
+Kyushu Institute of Technology,48,1909,National,40000,51.5,5.1,97.5
+Akita International University,49,2004,Public,05000,50.8,26.5,95.0
+International Christian University,50,1949,Private,13000,50.1,24.2,93.8
+University of Aizu,51,1993,Public,07000,49.5,18.2,95.5
+Ritsumeikan Asia Pacific University,52,2000,Private,44000,48.8,48.5,94.2
