@@ -1,2 +1,2 @@
-# Cloud Technologies
-   Japanese Universities Analysis Project
+# Cloud Technologies Class
+   Japanese Universities Analysis Project with Python
