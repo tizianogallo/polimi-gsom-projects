@@ -15,7 +15,7 @@ This repository collects projects completed during my international master's deg
  
 ### 🤖 Machine Learning & Business Applications
 **Yeti: A Churning Case Study**  
-Predicting customer churn for a travel agency using binary classification. Trained and compared 9 models (SVM, Random Forest, Gradient Boosting and more) across a 3-way merged dataset from Sales, Finance and CRM departments. Winner: SVM with RBF kernel (F1=0.894, AUC=0.927). Findings translated into actionable business recommendations for loyal and at-risk school profiles.
+Predicting customer churn for a travel agency using binary classification. Trained and compared 9 models (SVM, Random Forest, Gradient Boosting and more) across a 3-way merged dataset from Sales, Finance and CRM departments. Findings translated into actionable business recommendations for loyal and at-risk school profiles.
  
 ---
  
