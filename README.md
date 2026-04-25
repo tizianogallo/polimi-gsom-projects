@@ -7,7 +7,7 @@ Politecnico di Milano — Graduate School of Management (POLIMI GSoM)
  
 ## 🎓 About
  
-This repository collects projects completed during my international master's degree at **MIP Politecnico di Milano Graduate School of Management**, one of Europe's leading business schools.
+This repository collects projects completed during my international master's degree at **Politecnico di Milano Graduate School of Management**, one of Europe's leading business schools.
  
 ---
  
