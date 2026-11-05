@@ -126,17 +126,6 @@ The winning model was refit on all 3,095 labeled rows (train + validation combin
 - **Multicollinearity** — FPP, Total_Pax, FRP_Active are highly correlated, making individual feature ranking less robust
 ---
  
-## 🛠️ Tech Stack
- 
-- **Python** — core language for the full pipeline
-- **pandas & NumPy** — data cleaning, merging and feature engineering
-- **scikit-learn** — preprocessing pipelines (`ColumnTransformer`, `RobustScaler`, `OneHotEncoder`), model training and `GridSearchCV` with stratified 5-fold cross-validation
-- **Models** — SVM, Random Forest, Gradient Boosting, AdaBoost, KNN, Logistic Regression, MLP, Decision Tree, Gaussian Naive Bayes
-- **matplotlib & seaborn** — evaluation plots (ROC curves, confusion matrices, feature importance)
-- **Jupyter Notebook** — development and reporting environment
- 
----
- 
 ## 🛠️ Requirements
  
 ```bash
@@ -144,4 +133,5 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ```
  
 ---
- 
+
+**🛠️ Tech Stack:** `Python` · `pandas` · `NumPy` · `scikit-learn` · `matplotlib` · `seaborn` · `Jupyter`

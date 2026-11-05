@@ -74,3 +74,5 @@ polimi-gsom-projects/
 ```
 
 ---
+
+**🛠️ Tech Stack:** `PySpark` · `Google Colab` · `Python` · `pandas` · `seaborn` · `matplotlib` · `Google Drive`

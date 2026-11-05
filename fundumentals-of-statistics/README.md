@@ -100,3 +100,5 @@ All datasets are linked via `nuts_code` (NUTS 2 regional identifier).
 - **NUTS 2 aggregation** — unable to pinpoint exact sub-regional problem areas
 
 ---
+
+**🛠️ Tech Stack:** `R` · `ggplot2` · `PCA` · `Gini / Lorenz curves`
