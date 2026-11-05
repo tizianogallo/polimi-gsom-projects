@@ -22,6 +22,12 @@ Each family member has different interests, from football and home cooking to co
 
 ---
 
+## 🛠️ Tech Stack
+
+- **Figma** — slide design, layout and storytelling for the final 30-slide presentation
+
+---
+
 ## 🔍 Approach
 
 1. **Personas:** four family members with distinct interests, built to define what the stay needs to deliver.
