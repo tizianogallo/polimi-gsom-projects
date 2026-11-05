@@ -45,4 +45,12 @@ A visual storytelling group project on Airbnb listings in Milan. Following the f
  
 ---
  
+### 📉 Time Series Analysis for Finance & Economics
+**Forecasting Solar Energy and Modelling Stock Volatility**  
+Two applied time series problems built in Gretl. The first forecasts U.S. monthly solar electricity generation with ARMA and VAR models, testing whether natural gas generation and electricity prices add predictive power. The second models the volatility of NextEra Energy (NEE) stock with a GARCH(1,1) model and produces a one-day-ahead volatility forecast.
+
+![Gretl](https://img.shields.io/badge/Gretl-Econometrics-1F6FB2)
+ 
+---
+ 
 *More details and projects coming soon.*
