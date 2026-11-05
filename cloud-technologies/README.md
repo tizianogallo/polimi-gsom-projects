@@ -35,7 +35,6 @@ This project analyzes the best universities and regions in Japan for internation
 - **Apache Spark (PySpark)** – distributed data processing
 - **Google Colab** – cloud notebook environment
 - **Python** – pandas, seaborn, matplotlib for analysis and visualization
-- **Google Drive** – dataset storage and access
 
 ---
 
@@ -75,4 +74,4 @@ polimi-gsom-projects/
 
 ---
 
-**🛠️ Tech Stack:** `PySpark` · `Google Colab` · `Python` · `pandas` · `seaborn` · `matplotlib` · `Google Drive`
+**🛠️ Tech Stack:** `PySpark` · `Google Colab` · `Python` · `pandas` · `seaborn` · `matplotlib`

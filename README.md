@@ -33,7 +33,7 @@ Statistical analysis of broadband internet connectivity across European regions 
 **Analysis of Opportunities for International Students in Japan**  
 Distributed data analysis using Apache Spark (PySpark) on Google Colab to identify the best Japanese universities and regions for international students. Evaluated internationalization, research impact, employability and regional living costs across all 47 prefectures.
 
-**🛠️ Tech Stack:** `PySpark` · `Google Colab` · `Python` · `pandas` · `seaborn` · `matplotlib` · `Google Drive`
+**🛠️ Tech Stack:** `PySpark` · `Google Colab` · `Python` · `pandas` · `seaborn` · `matplotlib`
  
 ---
  
