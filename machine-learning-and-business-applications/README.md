@@ -134,4 +134,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn
  
 ---
 
-**🛠️ Tech Stack:** `Python` · `pandas` · `NumPy` · `scikit-learn` · `matplotlib` · `seaborn` · `Jupyter`
+## 🛠️ Tools & Technologies
+
+![Python](https://img.shields.io/badge/Python-Language-3776AB) ![pandas](https://img.shields.io/badge/pandas-Data-150458) ![NumPy](https://img.shields.io/badge/NumPy-Numerics-013243) ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E) ![matplotlib](https://img.shields.io/badge/matplotlib-Plotting-11557C) ![seaborn](https://img.shields.io/badge/seaborn-Plotting-4C72B0) ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626)

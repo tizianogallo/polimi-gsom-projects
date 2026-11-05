@@ -101,4 +101,6 @@ All datasets are linked via `nuts_code` (NUTS 2 regional identifier).
 
 ---
 
-**🛠️ Tech Stack:** `R` · `ggplot2` · `PCA` · `Gini / Lorenz curves`
+## 🛠️ Tools & Technologies
+
+![R](https://img.shields.io/badge/R-Language-276DC3) ![ggplot2](https://img.shields.io/badge/ggplot2-Plotting-4C72B0) ![PCA](https://img.shields.io/badge/PCA-Method-8250DF) ![Gini / Lorenz](https://img.shields.io/badge/Gini%20%2F%20Lorenz-Inequality-2DA44E)

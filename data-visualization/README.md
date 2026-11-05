@@ -55,4 +55,6 @@ Each family member has different interests, from football and home cooking to co
 
 ---
 
-**🛠️ Tech Stack:** `Tableau`
+## 🛠️ Tools & Technologies
+
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard-E97627)

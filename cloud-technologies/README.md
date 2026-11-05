@@ -74,4 +74,6 @@ polimi-gsom-projects/
 
 ---
 
-**🛠️ Tech Stack:** `PySpark` · `Google Colab` · `Python` · `pandas` · `seaborn` · `matplotlib`
+## 🛠️ Tools & Technologies
+
+![PySpark](https://img.shields.io/badge/PySpark-Big%20Data-E25A1C) ![Google Colab](https://img.shields.io/badge/Google%20Colab-Cloud%20Notebook-F9AB00) ![Python](https://img.shields.io/badge/Python-Language-3776AB) ![pandas](https://img.shields.io/badge/pandas-Data-150458) ![seaborn](https://img.shields.io/badge/seaborn-Plotting-4C72B0) ![matplotlib](https://img.shields.io/badge/matplotlib-Plotting-11557C)

@@ -17,7 +17,7 @@ This repository collects projects completed during my international master's deg
 **Yeti: A Churning Case Study**  
 Predicting customer churn for a travel agency using binary classification. Trained and compared 9 models (SVM, Random Forest, Gradient Boosting and more) across a 3-way merged dataset from Sales, Finance and CRM departments. Findings translated into actionable business recommendations for loyal and at-risk school profiles.
 
-**🛠️ Tech Stack:** `Python` · `pandas` · `NumPy` · `scikit-learn` · `matplotlib` · `seaborn` · `Jupyter`
+![Python](https://img.shields.io/badge/Python-Language-3776AB) ![pandas](https://img.shields.io/badge/pandas-Data-150458) ![NumPy](https://img.shields.io/badge/NumPy-Numerics-013243) ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E) ![matplotlib](https://img.shields.io/badge/matplotlib-Plotting-11557C) ![seaborn](https://img.shields.io/badge/seaborn-Plotting-4C72B0) ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626)
  
 ---
  
@@ -25,7 +25,7 @@ Predicting customer churn for a travel agency using binary classification. Train
 **Levelling the Field: A Statistical Analysis on Internet Connection across Europe**  
 Statistical analysis of broadband internet connectivity across European regions (NUTS 2 level), informing the European Commission on where to prioritize investment under the EU Digital Decade 2030 target. Key methods include Lorenz curves, Gini coefficients and PCA-based satellite suitability scoring.
 
-**🛠️ Tech Stack:** `R` · `ggplot2` · `PCA` · `Gini / Lorenz curves`
+![R](https://img.shields.io/badge/R-Language-276DC3) ![ggplot2](https://img.shields.io/badge/ggplot2-Plotting-4C72B0) ![PCA](https://img.shields.io/badge/PCA-Method-8250DF) ![Gini / Lorenz](https://img.shields.io/badge/Gini%20%2F%20Lorenz-Inequality-2DA44E)
  
 ---
  
@@ -33,7 +33,7 @@ Statistical analysis of broadband internet connectivity across European regions 
 **Analysis of Opportunities for International Students in Japan**  
 Distributed data analysis using Apache Spark (PySpark) on Google Colab to identify the best Japanese universities and regions for international students. Evaluated internationalization, research impact, employability and regional living costs across all 47 prefectures.
 
-**🛠️ Tech Stack:** `PySpark` · `Google Colab` · `Python` · `pandas` · `seaborn` · `matplotlib`
+![PySpark](https://img.shields.io/badge/PySpark-Big%20Data-E25A1C) ![Google Colab](https://img.shields.io/badge/Google%20Colab-Cloud%20Notebook-F9AB00) ![Python](https://img.shields.io/badge/Python-Language-3776AB) ![pandas](https://img.shields.io/badge/pandas-Data-150458) ![seaborn](https://img.shields.io/badge/seaborn-Plotting-4C72B0) ![matplotlib](https://img.shields.io/badge/matplotlib-Plotting-11557C)
  
 ---
  
@@ -41,7 +41,7 @@ Distributed data analysis using Apache Spark (PySpark) on Google Colab to identi
 **Who Wants to Stay in Navigli?**  
 A visual storytelling group project on Airbnb listings in Milan. Following the fictional family of a young Brazilian footballer visiting him in the city, the analysis compares Municipio 6 neighborhoods against key points of interest, tests whether Navigli is worth its price, and filters listings by group size, beds, kitchen, budget and bathrooms to shortlist three options.
 
-**🛠️ Tech Stack:** `Tableau`
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard-E97627)
  
 ---
  
