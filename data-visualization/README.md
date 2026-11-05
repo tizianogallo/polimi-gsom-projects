@@ -55,4 +55,4 @@ Each family member has different interests, from football and home cooking to co
 
 ---
 
-**🛠️ Tech Stack:** `Tableau` · `Figma`
+**🛠️ Tech Stack:** `Tableau`

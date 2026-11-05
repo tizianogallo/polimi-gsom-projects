@@ -41,7 +41,7 @@ Distributed data analysis using Apache Spark (PySpark) on Google Colab to identi
 **Who Wants to Stay in Navigli?**  
 A visual storytelling group project on Airbnb listings in Milan. Following the fictional family of a young Brazilian footballer visiting him in the city, the analysis compares Municipio 6 neighborhoods against key points of interest, tests whether Navigli is worth its price, and filters listings by group size, beds, kitchen, budget and bathrooms to shortlist three options.
 
-**🛠️ Tech Stack:** `Tableau` · `Figma`
+**🛠️ Tech Stack:** `Tableau`
  
 ---
  
